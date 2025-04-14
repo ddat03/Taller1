@@ -167,7 +167,10 @@ oSesgo: 205.86 (muy pronunciado)
 
 7. Conclusiones
 Perfil de negocio claramente definido: Los datos revelan una empresa minorista especializada en artículos decorativos y productos para el hogar, con fuerte enfoque en artículos de temporada, especialmente navideños. Esta especialización se refleja tanto en los patrones de ventas como en la naturaleza de los productos más vendidos y devueltos.
+
 Marcada estacionalidad: Existe un patrón estacional muy pronunciado con incremento significativo de ventas durante el último trimestre del año (octubre-diciembre). Esta temporalidad debería ser fundamental para la planificación estratégica de inventario, marketing y asignación de recursos.
+
 Problemas críticos de calidad: Las elevadísimas tasas de devolución en ciertos productos (hasta 96.8% en muestras y más del 50% en productos navideños específicos) indican problemas graves
 Concentración geográfica: A pesar de tener presencia en 38 países, más del 91% de las transacciones provienen del Reino Unido, lo que sugiere tanto una dependencia del mercado local como una oportunidad no aprovechada de expansión internacional.
+
 Segmentación de clientes valiosa: La distribución relativamente equilibrada entre segmentos de clientes (con predominio de "Campeones" en 28.5%) ofrece oportunidades específicas para estrategias diferenciadas de retención, desarrollo y recuperación según el valor y comportamiento de cada grupo.
