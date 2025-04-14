@@ -29,7 +29,9 @@ El conjunto de datos consta de 541,900 registros con 8 columnas principales:
 
 InvoiceNo
 •Identificador alfanumérico único para cada transacción
+
 •Permite rastrear todas las líneas de una misma factura
+
 •Total de 23,796 facturas únicas
 
 StockCode
